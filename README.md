@@ -21,7 +21,7 @@ This project is made during the Namaste React Course Akshay Saini👩‍💻
 ## How to run on your local
 ### 1. Clone the repo 
 ```
-git clone https://github.com/shubhamtadas/Food-Ordering-App-main.git
+git clone https://github.com/shubhamtadas/food-ordering-app.git
 ```
 ### 2. Install dependencies
 ``` 
